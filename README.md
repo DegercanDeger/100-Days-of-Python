@@ -15,7 +15,10 @@
 
 I am currently working on this course.
 
-![wallpaper](wallpaper.png)
+
+![200 (1)](https://user-images.githubusercontent.com/115932275/196469108-5cdeffd6-85e8-4fb6-8087-f62b3c2af7af.gif)
+
+
 
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
