@@ -17,7 +17,7 @@
 I am currently working on this course.
 
 
-![200 (1)](https://user-images.githubusercontent.com/115932275/196469108-5cdeffd6-85e8-4fb6-8087-f62b3c2af7af.gif)
+        ![200 (1)](https://user-images.githubusercontent.com/115932275/196469108-5cdeffd6-85e8-4fb6-8087-f62b3c2af7af.gif)
 
 
 
