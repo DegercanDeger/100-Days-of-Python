@@ -22,9 +22,9 @@ I am currently working on this course.
 
 
 ## 👨🏻‍🎓 Beginner
-- [Day 1](Day 01): Working with Variables in Python to Manage Data
-- [Day 2](Day 02): Understanding Data Types and How to Manipulate Strings
-- [Day 3](Day 03): Control Flow and Logical Operators
+- [Day 1](Day_01): Working with Variables in Python to Manage Data
+- [Day 2](Day_02): Understanding Data Types and How to Manipulate Strings
+- [Day 3](Day_03): Control Flow and Logical Operators
 - [Day 4](Day04): Randomisation and Python Lists
 - [Day 5](Day05): Python Loops
 - [Day 6](day06): Python Functions & Karel
