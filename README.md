@@ -22,28 +22,28 @@ I am currently working on this course.
 
 
 ## 👨🏻‍🎓 Beginner
-- [Day 1](Day01): Working with Variables in Python to Manage Data
-- [Day 2](Day02): Understanding Data Types and How to Manipulate Strings
-- [Day 3](Day03): Control Flow and Logical Operators
-- [Day 4](Day04): Randomisation and Python Lists
-- [Day 5](Day05): Python Loops
-- [Day 6](day06): Python Functions & Karel
-- [Day 7](day07): Hangman
-- [Day 8](day08): Function Parameters & Caesar Cipher
-- [Day 9](day09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day10): Function Return Values and the Calculator Project
-- [Day 11](day11): Blackjack Capstone Project
-- [Day 12](day12): Scope and Namespacing in Python
-- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day14): Higher Lower Game Project
+- [Day 1](Day%2001): Working with Variables in Python to Manage Data
+- [Day 2](Day%2002): Understanding Data Types and How to Manipulate Strings
+- [Day 3](Day%2003): Control Flow and Logical Operators
+- [Day 4](Day%2004): Randomisation and Python Lists
+- [Day 5](Day%2005): Python Loops
+- [Day 6](day%2006): Python Functions & Karel
+- [Day 7](day%2007): Hangman
+- [Day 8](day%2008): Function Parameters & Caesar Cipher
+- [Day 9](day%2009): Dictionaries, Nesting and the Secret Auction
+- [Day 10](day%2010): Function Return Values and the Calculator Project
+- [Day 11](day%2011): Blackjack Capstone Project
+- [Day 12](day%2012): Scope and Namespacing in Python
+- [Day 13](day%2013): Debugging: How to Find and Fix Errors in your Code
+- [Day 14](day%2014): Higher Lower Game Project
 
 ## 🏋🏻‍♂️ Intermediate
-- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](day16): Object Oriented Programming (OOP)
-- [Day 17](day17): The Quiz Project & the Benefits of OOP
-- [Day 18](day18): Turtle Graphics and GUIs
-- [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 15](day%2015): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](day%2016): Object Oriented Programming (OOP)
+- [Day 17](day%2017): The Quiz Project & the Benefits of OOP
+- [Day 18](day%2018): Turtle Graphics and GUIs
+- [Day 19](day%2019): Instances, State and Higher Order Functions
+- [Day 20](day%2020): Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22](day22): Build Pong: The Famous Arcade Game
 - [Day 23](day23): The Turtle Crossing Capstone Project
