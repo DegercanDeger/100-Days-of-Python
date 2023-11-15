@@ -35,7 +35,7 @@ I am currently working on this course.
 - [Day 11](day%2011): Blackjack Capstone Project
 - [Day 12](day%2012): Scope and Namespacing in Python
 - [Day 13](day%2013): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day%2014): Higher Lower Game Project
+- [Day 14](Day%2014): Higher Lower Game Project
 
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](day%2015): Local Development Environment Setup & the Coffee Machine Project
